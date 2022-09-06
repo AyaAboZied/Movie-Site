@@ -10,7 +10,7 @@
 
 <!-- Add a demo for your project -->
 
-![Project Preview](https://github.com/AyaAboZied/Movie-Site/blob/main/Movie_Site/media/movie-site.gif)
+![Project Preview](https://github.com/AyaAboZied/Movie-Site/blob/main/Movie-Site/media/movie-site.gif)
 
 <br>
 
